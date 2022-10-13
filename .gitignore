@@ -16,5 +16,6 @@ vendor
 *.gem
 
 # npm dependencies
+Gemfile.lock
 node_modules
 package-lock.json
